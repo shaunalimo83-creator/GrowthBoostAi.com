@@ -1,0 +1,358 @@
+GROWTHBOOST AI — COMPLETE APPLICATION BUILD
+
+Project: GrowthBoostAI.com
+Product: GrowthBoost AI Business Services Platform
+Initial launch market: Birmingham, United Kingdom
+Expansion: UK-wide and international
+Build objective: Create a fully functional, secure, scalable, AI-powered business-services platform.
+
+1. First inspect the existing project
+
+Before making changes:
+
+* Inspect all existing source code, files, repositories, integrations and deployment settings.
+* Preserve existing working functionality and customer data.
+* Do not overwrite or delete existing files without approval.
+* Identify the current framework and database.
+* If the project is empty, create the application foundation.
+* Work on a development branch, not directly on production.
+* Do not purchase paid services or activate paid subscriptions without approval.
+
+2. Main website
+
+Build a professional, modern, responsive website for GrowthBoost AI.
+
+Create these pages:
+
+* Home
+* About GrowthBoost AI
+* Business Services
+* Marketplace
+* AI Business Assistant
+* Business Command Centre
+* Pricing and Plans
+* Customer Support
+* Contact
+* Sign In
+* Register
+* Customer Dashboard
+* Business Owner Dashboard
+* Admin Dashboard
+* Privacy Policy
+* Terms and Conditions
+* Refund Policy
+
+Use professional branding, modern layouts, responsive navigation, accessible components and clear calls to action.
+
+3. Customer registration and accounts
+
+Build a complete authentication system with:
+
+* Register using email and password.
+* Sign in using Google.
+* Email verification.
+* Secure password recovery.
+* Multi-factor authentication.
+* Secure logout.
+* Account settings.
+* Profile management.
+* Session management.
+* Account deletion and data export.
+
+Every registered customer must receive their own secure account and personalised dashboard.
+
+Customers must be able to:
+
+* View their personal information.
+* View their applications.
+* Track application progress.
+* Access purchased services.
+* Upload and download documents.
+* View orders and transactions.
+* Communicate with support.
+* Manage subscriptions.
+* Update their preferences.
+* View notifications.
+* Manage their business profiles.
+
+One customer can manage multiple businesses, but each business must have separate permissions and records.
+
+Never allow customers to access another customer’s private information.
+
+4. Business services marketplace
+
+Create a searchable marketplace where customers can discover and purchase business services.
+
+Include categories such as:
+
+* Business startup assistance.
+* Business planning.
+* Company growth services.
+* Business marketing.
+* Website development.
+* Branding and graphic design.
+* Business automation.
+* AI business tools.
+* Business funding preparation.
+* Business administration.
+* Accounting support and integrations.
+* Business consulting.
+* Digital products.
+* Business training.
+
+Each service needs:
+
+* Service description.
+* Pricing.
+* Features and deliverables.
+* Application or purchase button.
+* Customer requirements.
+* Order status.
+* Service provider information.
+* Customer reviews, subject to moderation.
+* Refund and cancellation information.
+
+Build an admin interface for adding, editing, publishing and managing services.
+
+Do not advertise funding, legal, financial or regulated services as guaranteed.
+
+5. Customer application management
+
+Create dynamic application forms for every business service.
+
+When a customer submits an application:
+
+1. Validate the submitted information.
+2. Save the application securely.
+3. Associate it with the customer’s account.
+4. Associate it with the correct business profile.
+5. Generate an application reference.
+6. Show it in the customer’s dashboard.
+7. Notify the relevant administrators.
+8. Allow authorised staff to review and update its status.
+
+Application statuses:
+
+* Draft.
+* Submitted.
+* Under review.
+* Awaiting customer information.
+* Approved.
+* In progress.
+* Completed.
+* Declined.
+* Cancelled.
+
+Save application progress so customers can return later.
+
+6. GrowthBoost AI Business Command Centre
+
+Build a central command centre for authorised administrators and business owners.
+
+Include:
+
+* Customer management.
+* Business profiles.
+* Service management.
+* Applications.
+* Orders.
+* Payments.
+* Refunds.
+* Subscriptions.
+* Staff management.
+* Marketing analytics.
+* Customer support.
+* Notifications.
+* Reports.
+* Platform settings.
+* Integration management.
+* Security and audit logs.
+
+Display real statistics from the database, not invented numbers.
+
+7. AI Business Assistant
+
+Create an AI assistant that customers can access from their dashboard.
+
+It should help customers:
+
+* Start and develop businesses.
+* Create business plans.
+* Research markets.
+* Develop marketing strategies.
+* Create business documents.
+* Improve business operations.
+* Generate content.
+* Understand business performance.
+* Find relevant GrowthBoost services.
+* Complete applications.
+* Navigate the platform.
+
+Provide a separate administrator AI assistant for authorised internal operations.
+
+The AI must use approved tools and permissions. It must not access private customer records unless the authenticated user is authorised to access them.
+
+Do not claim to be a solicitor, accountant, bank, investment adviser or regulated professional. Legal and regulated decisions must be escalated to appropriately qualified professionals.
+
+8. Additional AI features
+
+Build the following as phased modules:
+
+* AI Business Importer: import supported business information, spreadsheets and product catalogues.
+* AI Staff and Team Manager: employee invitations, permissions, tasks and shifts.
+* AI Marketing Results Tracker: campaign costs, enquiries, conversions and sales.
+* AI Customer Help Centre: 24/7 AI support and human escalation.
+* AI Fraud and Scam Protection: suspicious activity detection and review.
+* AI Contracts Assistant: draft business documents for professional review.
+* Business Backup and Recovery.
+* GrowthBoost Connect integrations.
+* GrowthBoost Business Academy.
+* International Trade Assistant.
+* Customer Satisfaction Monitor.
+* AI Daily Business Manager.
+
+9. Payments and financial management
+
+Prepare a secure payment integration using an approved payment provider.
+
+Include:
+
+* Customer checkout.
+* Payment confirmations.
+* Order history.
+* Receipts.
+* Subscription management.
+* Refund requests.
+* Full and partial refunds.
+* Refund status tracking.
+* Payment notifications.
+* Seller payment reconciliation where applicable.
+
+Refund eligibility must follow applicable consumer law, the seller’s policy, provider rules and marketplace configuration.
+
+Do not promise instant refunds or automatically approve disputed transactions.
+
+Never store raw card details or payment credentials.
+
+10. Customer support
+
+Build:
+
+* AI customer support assistant.
+* Support ticket submission.
+* Ticket reference numbers.
+* Ticket status tracking.
+* Staff responses.
+* Attachments.
+* Escalation to human support.
+* Frequently asked questions.
+* Help articles.
+* Customer notifications.
+
+11. Staff and permissions
+
+Create role-based access control.
+
+Roles:
+
+* Founder/Platform Owner.
+* Super Administrator.
+* Administrator.
+* Customer Support.
+* Finance Manager.
+* Service Manager.
+* Marketing Manager.
+* Business Customer.
+* Service Provider.
+
+The founder account must be established through a secure, controlled ownership-verification process. Email verification alone must not automatically grant administrator or founder privileges.
+
+Never expose administrator controls to ordinary customers.
+
+12. International expansion
+
+Launch initially in Birmingham, England.
+
+Design for expansion with:
+
+* GBP as the initial currency.
+* Additional supported currencies.
+* Multiple languages.
+* Local tax settings.
+* International payment methods.
+* Country-specific consumer policies.
+* Seller verification.
+* Delivery and courier integrations.
+* Country-specific availability settings.
+
+13. Security and privacy
+
+Implement:
+
+* Secure authentication.
+* Server-side authorisation.
+* Tenant isolation.
+* Database access controls.
+* Input validation.
+* Rate limiting.
+* Secure file uploads.
+* Encryption in transit and at rest where supported.
+* Audit logs.
+* Backup and recovery.
+* Privacy controls.
+* GDPR-conscious data management.
+* Secure secrets management.
+
+Never place API keys, database passwords or private credentials in frontend code or GitHub commits.
+
+14. Technology and architecture
+
+Use the existing project’s framework where possible.
+
+If starting from scratch, choose a maintainable modern architecture with:
+
+* Responsive frontend.
+* Secure backend/API.
+* Relational database.
+* Authentication provider.
+* File storage.
+* Payment provider integration.
+* AI model integration.
+* Email notification service.
+* Automated tests.
+* Error monitoring.
+
+Create documented environment variables and setup instructions.
+
+Use sandbox/test environments for external services until approved for production.
+
+15. Testing and delivery
+
+Create:
+
+* Unit tests.
+* Integration tests.
+* Authentication tests.
+* Customer access-control tests.
+* Application submission tests.
+* Payment test flows.
+* Refund test flows.
+* Security tests.
+* Mobile responsiveness tests.
+
+Build in phases and ensure each phase works before moving to the next.
+
+Provide:
+
+1. Complete source code.
+2. Database schema and migrations.
+3. Environment variable example file.
+4. Installation instructions.
+5. Testing instructions.
+6. Deployment instructions.
+7. Integration documentation.
+8. A list of unfinished features and required credentials.
+
+IMPORTANT: Build real working functionality, not decorative buttons, fake statistics, placeholder payments or simulated customer records. Every button must perform its stated action. Clearly label features that still require external credentials, regulatory approval or human configuration.
+
+Do not deploy to production or introduce paid services without explicit approval.
